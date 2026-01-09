@@ -9,4 +9,9 @@
     <ProjectReference Include="..\..\src\Hugin.ApiService\Hugin.ApiService.csproj" />
   </ItemGroup>
 
+  
+  <ItemGroup>
+    <PackageReference Include="Aspire.Hosting.Kubernetes" />
+  </ItemGroup>
+
 </Project>

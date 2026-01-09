@@ -18,5 +18,6 @@
     <PackageVersion Include="OpenTelemetry.Instrumentation.Runtime" Version="1.14.0" />
     
     <!-- Hugin.AppHost -->
+    <PackageVersion Include="Aspire.Hosting.Kubernetes" Version="13.1.0-preview.1.25616.3" />
   </ItemGroup>
 </Project>
