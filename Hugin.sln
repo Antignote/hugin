@@ -1,4 +1,5 @@
-﻿Microsoft Visual Studio Solution File, Format Version 12.00
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.0.0
 MinimumVisualStudioVersion = 17.8.0.0
@@ -7,8 +8,6 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hugin.ServiceDefaults", "Hugin.ServiceDefaults\Hugin.ServiceDefaults.csproj", "{8B2FAE2B-A290-4FA5-B2AE-73CB257DABF6}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hugin.ApiService", "Hugin.ApiService\Hugin.ApiService.csproj", "{6301E1B5-6009-4196-A272-3C3329F43A35}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hugin.Web", "Hugin.Web\Hugin.Web.csproj", "{ABBB0F4E-AD92-494A-A0F1-A33C3F425E3F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -28,10 +27,6 @@ Global
 		{6301E1B5-6009-4196-A272-3C3329F43A35}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6301E1B5-6009-4196-A272-3C3329F43A35}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6301E1B5-6009-4196-A272-3C3329F43A35}.Release|Any CPU.Build.0 = Release|Any CPU
-		{ABBB0F4E-AD92-494A-A0F1-A33C3F425E3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{ABBB0F4E-AD92-494A-A0F1-A33C3F425E3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{ABBB0F4E-AD92-494A-A0F1-A33C3F425E3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{ABBB0F4E-AD92-494A-A0F1-A33C3F425E3F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -10,7 +10,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Hugin.ApiService\Hugin.ApiService.csproj" />
-    <ProjectReference Include="..\Hugin.Web\Hugin.Web.csproj" />
   </ItemGroup>
 
 </Project>
