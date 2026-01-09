@@ -1,0 +1,12 @@
+<Project Sdk="Aspire.AppHost.Sdk/13.1.0">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <UserSecretsId>8ff28b25-d72d-4ef9-af22-66b52374fae1</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\src\Hugin.ApiService\Hugin.ApiService.csproj" />
+  </ItemGroup>
+
+</Project>

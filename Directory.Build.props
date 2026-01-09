@@ -1,0 +1,14 @@
+<Project>
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+
+    <!-- static code analysis -->
+    <AnalysisLevel>latest</AnalysisLevel>
+    <AnalysisMode>All</AnalysisMode>
+    <_TreatWarningsAsErrors>true</_TreatWarningsAsErrors>
+    <_CodeAnalysisTreatWarningsAsErrors>true</_CodeAnalysisTreatWarningsAsErrors>
+    <EnforceCodeStyleBuild>true</EnforceCodeStyleBuild>
+  </PropertyGroup>
+</Project>

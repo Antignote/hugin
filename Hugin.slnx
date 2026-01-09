@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="src/Hugin.ApiService/Hugin.ApiService.csproj" />
+  <Project Path="src/Hugin.ServiceDefaults/Hugin.ServiceDefaults.csproj" />
+  <Project Path="tools/Hugin.AppHost/Hugin.AppHost.csproj" />
+</Solution>
