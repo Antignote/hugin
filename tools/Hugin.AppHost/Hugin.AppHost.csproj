@@ -9,7 +9,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Hugin.ApiService\Hugin.ApiService.csproj" />
+    <ProjectReference Include="..\..\src\Hugin.ApiService\Hugin.ApiService.csproj" />
   </ItemGroup>
 
 </Project>
